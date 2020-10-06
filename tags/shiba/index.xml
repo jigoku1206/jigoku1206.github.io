@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiba on Jerry&#39;s Blog</title>
+    <link>https://jigoku1206.github.io/tags/shiba/</link>
+    <description>Recent content in Shiba on Jerry&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 04 Oct 2020 10:07:47 +0800</lastBuildDate><atom:link href="https://jigoku1206.github.io/tags/shiba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Veriz的第一篇文章</title>
+      <link>https://jigoku1206.github.io/blog/test/</link>
+      <pubDate>Sun, 04 Oct 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://jigoku1206.github.io/blog/test/</guid>
+      <description>Hello 我是Jerry
+Introduction 這是第一篇測試文章
+這是第一篇測試文章
+GoGoGo 我要
+   View this post on Instagram         A post shared by Bjørn Erik Pedersen (@bepsays) on Jul 6, 2017 at 9:27am PDT</description>
+    </item>
+    
+  </channel>
+</rss>
