@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Jerry&#39;s Blog</title>
+    <link>https://jigoku1206.github.io/tags/life/</link>
+    <description>Recent content in Life on Jerry&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 09 Jun 2019 10:07:47 +0800</lastBuildDate><atom:link href="https://jigoku1206.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【高雄美食】 MLD台鋁市集一日限定！珍珠提拉米蘇～</title>
+      <link>https://jigoku1206.github.io/blog/life_mldmarket/</link>
+      <pubDate>Sun, 09 Jun 2019 10:07:47 +0800</pubDate>
+      
+      <guid>https://jigoku1206.github.io/blog/life_mldmarket/</guid>
+      <description>台鋁MLD假日市集 很久沒有回高雄，受朋友之邀，第一次來到台鋁MLD假日市集。
+朋友是「迪波波義食館」的帥哥老闆，
+剛好也在這邊擺攤，很開心能夠品嚐到限量的珍珠提拉米蘇。
+甜而不膩的清爽口感，
+可惜是期間限定已成絕響（哭
+只好拜託帥哥老闆
+希望有機會能夠在店內享用到（笑</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;：建立具有唯獨性變數(Read-only variable)的類別</title>
+      <link>https://jigoku1206.github.io/blog/cpp_readonly/</link>
+      <pubDate>Sat, 11 Mar 2017 21:00:00 +0800</pubDate>
+      
+      <guid>https://jigoku1206.github.io/blog/cpp_readonly/</guid>
+      <description>最近在練習寫C++的類別(class)的相關應用
+不過剛好遇到一個狀況是需要讓某些變數具有唯獨性(Read-only)
+因為有些變數如果開放給外部權限修改
+那有可能會造成不可預期的錯誤
+為了避免這樣的狀況發生
+所以就練習了幾種方式來實現
+使用以下class做為範例：
+假設目前需要一個能夠存放一個物件的類別 其中有個變數為 Length</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,0 @@
-# jigoku1206.github.io
